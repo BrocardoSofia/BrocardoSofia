@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--- Drag and drop a gif to github README.md --->
 
 <p align="center">
-My name is Sofia Brocardo, I'm a programmer based in Argentina. I am a passionate software developer how is always learning new programming languages and technologies.
+Hi! My name is Sofia Brocardo. I’m a programmer based in Argentina. I am a passionate software developer who is always learning new programming languages and technologies.
 
 <br>
 <br>
