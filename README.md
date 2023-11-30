@@ -78,7 +78,7 @@ Hi! My name is Sofia Brocardo. I’m a programmer based in Argentina. I am a pas
       <img  alt="IntelliJ IDEA" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"/>
   </a>
   <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
-      <img  alt="Apache NetBeans" height="50px" style="padding-right:10px;"src="https://es.wikipedia.org/wiki/NetBeans#/media/Archivo:Apache_NetBeans_Logo.svg"/>
+      <img  alt="Apache NetBeans" height="50px" style="padding-right:10px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/800px-Apache_NetBeans_Logo.svg.png"/>
   </a>
   <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer">
       <img  alt="CodeBlock" height="50px" style="padding-right:10px;"src="https://www.codeblocks.org/images/logo160.png"/>
