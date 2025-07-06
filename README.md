@@ -39,28 +39,28 @@ Hi! My name is Sofia Brocardo. I’m a programmer based in Argentina. I am a pas
 <!--- Logos --->
 <div align="center">
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
+      <img  alt="C" height="20px" weight="20px" w style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-      <img  alt="C++" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png"/>
+      <img  alt="C++" height="20px" weight="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png"/>
   </a>
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/tour-of-csharp/">
-      <img  alt="C#" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png"/>
+      <img  alt="C#" height="20px" weight="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png"/>
   </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-      <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+      <img  alt="Java" height="20px" weight="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+      <img  alt="JavaScript" height="20px" weight="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+      <img  alt="HTML" height="20px" weight="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+      <img  alt="CSS" height="20px" weight="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
   <a href="https://www.mysql.com/">
-      <img  alt="MySQL" height="50px" style="padding-right:10px;" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png"/>
+      <img  alt="MySQL" height="20px" weight="20px" style="padding-right:10px;" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png"/>
   </a>
 </div>
 <br>
